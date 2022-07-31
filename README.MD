@@ -1,19 +1,19 @@
 
-# extenstion I use
+ ** extenstion I use
 
-1. vs-code theme
+# vs-code theme
 
 ----
 Night Owl
 ----
 
-2. fonts
+# fonts
 
 ------
 Fira Code , Dank Mono
 ------
 
-3. others extention
+# others extention
 
 * Auto close tag
 * Auto complete tag
