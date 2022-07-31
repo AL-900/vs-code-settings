@@ -1,0 +1,239 @@
+{
+   "editor.fontFamily": "Dank Mono , Fira Code",
+   "editor.fontLigatures": "ss01 ,ss02 , ss03 , ss04 , ss05 , ss06",
+   "markdown.preview.fontFamily": "Fira Code",
+   "editor.fontSize": 20,
+   "editor.tabSize": 3,
+   "editor.codeLensFontFamily": "Fira Code",
+   "files.defaultLanguage": "Fira Code",
+   "workbench.preferredDarkColorTheme": "Night Owl",
+   "workbench.preferredLightColorTheme": "Night Owl",
+   "[json]": {
+      "editor.quickSuggestions": {
+         "strings": true
+      },
+      "editor.suggest.insertMode": "replace",
+      "editor.defaultFormatter": "vscode.json-language-features"
+   },
+   "[javascript]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+   },
+   "[javascriptreact]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+   },
+   "javascript.validate.enable": false,
+   "emmet.triggerExpansionOnTab": true,
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.tslint": true,
+      "source.organizeImports": true
+   },
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.autoClosingBrackets": "always",
+   "editor.definitionLinkOpensInPeek": true,
+   "editor.fastScrollSensitivity": 1000,
+   "editor.hover.delay": 600,
+   "editor.inlayHints.fontFamily": "Fira Code",
+   "window.menuBarVisibility": "toggle",
+   "window.openFilesInNewWindow": "on",
+   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+   "auto-close-tag.SublimeText3Mode": true,
+   "html.format.indentHandlebars": true,
+   "prettier.jsxBracketSameLine": true,
+   "window.autoDetectColorScheme": true,
+   "ShortcutMenuBar.navigateForward": false,
+   "ShortcutMenuBar.navigateBack": false,
+   "ShortcutMenuBar.openFilesList": false,
+   "emmet.showSuggestionsAsSnippets": true,
+   "git.autoStash": true,
+   "editor.formatOnType": true,
+   "prettier.jsxSingleQuote": true,
+   "html.format.indentInnerHtml": true,
+   "html.format.templating": true,
+   "prettier.bracketSpacing": true,
+   "prettier.printWidth": 100,
+   "prettier.useTabs": true,
+   "debug.terminal.clearBeforeReusing": true,
+   "terminal.explorerKind": "external",
+   "terminal.integrated.copyOnSelection": true,
+   "diffEditor.codeLens": true,
+   "window.restoreFullscreen": true,
+   "terminal.integrated.defaultProfile.linux": "bash",
+   "terminal.integrated.fontFamily": "Fira Code",
+   "terminal.integrated.fontWeight": "normal",
+   "[jsonc]": {
+      "editor.quickSuggestions": {
+         "strings": true
+      },
+      "editor.suggest.insertMode": "replace"
+   },
+   "editor.formatOnPaste": true,
+   "editor.formatOnSave": false,
+   "javascript.format.insertSpaceAfterConstructor": true,
+   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+   "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+   "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+   "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+   "typescript.format.insertSpaceAfterConstructor": true,
+   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+   "bracketPairColorizer.activeScopeCSS": [
+      "borderStyle : solid",
+      "borderWidth : 5px",
+      "borderColor : {color}; opacity: 0.5"
+   ],
+   "files.autoSave": "afterDelay",
+   "javascript.updateImportsOnFileMove.enabled": "always",
+   "html.format.contentUnformatted": "",
+   "html.format.endWithNewline": true,
+   "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+   "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+   "editor.bracketPairColorization.enabled": true,
+   "editor.maxTokenizationLineLength": 200,
+   "editor.multiCursorModifier": "ctrlCmd",
+   "material-icon-theme.activeIconPack": "react",
+   "notebook.consolidatedRunButton": true,
+   "git.showUnpublishedCommitsButton": "always",
+   "terminal.integrated.profiles.linux": {
+      "bash": {
+         "path": "bash",
+         "icon": "terminal-bash"
+      },
+      "zsh": {
+         "path": "zsh"
+      },
+      "fish": {
+         "path": "fish"
+      },
+      "tmux": {
+         "path": "tmux",
+         "icon": "terminal-tmux"
+      },
+      "pwsh": {
+         "path": "pwsh",
+         "icon": "terminal-powershell"
+      },
+      "Select Default Profile": {
+         "path": "bash"
+      },
+      "git-bash": {
+         "path": "bash"
+      }
+   },
+   "search.useGlobalIgnoreFiles": true,
+   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+   "gitlens.views.repositories.showIncomingActivity": true,
+   "autoimport.doubleQuotes": true,
+   "workbench.iconTheme": "material-icon-theme",
+   "workbench.settings.useSplitJSON": true,
+   "javascript.suggest.completeFunctionCalls": true,
+   "typescript.disableAutomaticTypeAcquisition": true,
+   "editor.linkedEditing": true,
+   "liveServer.settings.donotVerifyTags": true,
+   "html.completion.attributeDefaultValue": "singlequotes",
+   "scss.lint.emptyRules": "ignore",
+   "scss.lint.fontFaceProperties": "ignore",
+   "editor.foldingImportsByDefault": true,
+   "editor.parameterHints.cycle": true,
+   "editor.suggest.shareSuggestSelections": true,
+   "workbench.list.smoothScrolling": true,
+   "javascript.inlayHints.parameterTypes.enabled": true,
+   "javascript.inlayHints.variableTypes.enabled": true,
+   "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+   "typescript.format.insertSpaceAfterTypeAssertion": true,
+   "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+   "typescript.format.semicolons": "insert",
+   "typescript.inlayHints.enumMemberValues.enabled": true,
+   "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+   "typescript.inlayHints.parameterTypes.enabled": true,
+   "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+   "typescript.inlayHints.variableTypes.enabled": true,
+   "javascript.format.semicolons": "insert",
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "workbench.colorTheme": "Night Owl",
+   "workbench.colorCustomizations": {
+      "[Night Owl]": {
+         "activityBar.background": "#2b0101",
+         "activityBar.border": "#660a0a",
+         "editorGroup.border": "#0957a5",
+         "sideBar.background": "#000000",
+         "sideBar.border": "#660a0a",
+         "sideBar.foreground": "#bdbecf"
+      }
+   },
+   "material-icon-theme.folders.color": "#f2f2f2",
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   },
+   "react-native-tools.networkInspector.consoleLogsColorTheme": "Dark",
+   "vscodeReactRefactor.enableDebug": true,
+   "vscodeReactRefactor.babelPlugins": "objectRestSpread, classProperties, typescript, jsx,js",
+   "vscodeReactRefactor.functionType": "arrowFunction",
+   "debug.javascript.autoExpandGetters": true,
+   "debug.javascript.breakOnConditionalError": true,
+   "editor.scrollbar.horizontalScrollbarSize": 15,
+   "editor.scrollbar.verticalScrollbarSize": 15,
+   "scss.lint.duplicateProperties": "warning",
+   "files.trimTrailingWhitespace": true,
+   "javascript.inlayHints.enumMemberValues.enabled": true,
+   "bracketPairColorizer.consecutivePairColors": [
+      "()",
+      "[]",
+      "{}",
+      [
+         "#660a0a",
+         "#F5A425",
+         "#198754",
+         "#0d6efd",
+         "#f5f5ed",
+         "#339e25",
+         "#A3E6F1",
+         "#6610f2",
+         "#d122e3",
+         "#fd7e14",
+         "#20c997",
+         "#ced4da",
+         "#4169e1",
+         "#6f42c1",
+         "#F26522",
+         "#F2CD28",
+         "#11E496",
+         "#D7C4A9",
+         "#43e0f2",
+         "#db0a7d",
+         "#e2f416",
+         "#26bae2",
+         "#932ded",
+         "#e8146c",
+         "#f409f4",
+         "#13f261",
+         "#1af2f2",
+         "#f79e0e"
+      ],
+      "Red"
+   ],
+   "reactSnippets.settings.languageScopes": "typescript,typescriptreact,javascript,javascriptreact",
+   "reactSnippets.settings.prettierEnabled": true,
+   "autoimport.filesToScan": "**/*.{ts,tsx,js,jsx,css,scss}",
+   "javascript.referencesCodeLens.enabled": false,
+   "javascript.referencesCodeLens.showOnAllFunctions": false,
+   "javascript.suggest.enabled": true,
+   "material-icon-theme.folders.associations": {},
+   "eslint.alwaysShowStatus": true,
+   "eslint.format.enable": true,
+   "eslint.lintTask.enable": true,
+   "eslint.enable": true,
+   "eslint.validate": [
+      "javascript",
+      "javascriptreact"
+   ],
+   "gitlens.views.remotes.branches.layout": "list"
+}
